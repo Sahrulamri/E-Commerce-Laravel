@@ -1,2 +1,2 @@
-# E-Commerce-Laravel
-Website E-Commerce Laravel dengan menggunakan Konsep Livewire
+# Template E-Commerce-Laravel
+Template Website E-Commerce Laravel dengan menggunakan Konsep Livewire
